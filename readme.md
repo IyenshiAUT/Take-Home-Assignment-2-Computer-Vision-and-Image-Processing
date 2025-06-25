@@ -77,7 +77,7 @@ Follow these steps to set up and run the project.
 
 First, clone the repository to your local machine:
 ```bash
-git clone [[https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/IyenshiAUT/Take-Home-Assignment-2-Computer-Vision-and-Image-Processing.git))
+git clone https://github.com/IyenshiAUT/Take-Home-Assignment-2-Computer-Vision-and-Image-Processing.git
 ```
 
 Create and activate a virtual environment (recommended):
