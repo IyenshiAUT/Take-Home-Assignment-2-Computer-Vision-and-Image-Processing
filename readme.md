@@ -77,8 +77,7 @@ Follow these steps to set up and run the project.
 
 First, clone the repository to your local machine:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone [[https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/IyenshiAUT/Take-Home-Assignment-2-Computer-Vision-and-Image-Processing.git))
 ```
 
 Create and activate a virtual environment (recommended):
@@ -100,6 +99,11 @@ pip install -r requirements.txt
 ### 3. Running the Scripts
 
 Each part of the assignment can be run independently.
+**To run the Original Image Creation:**
+```bash
+python "Image Creation/create_image.py"
+```
+
 
 **To run the Otsu's Algorithm demonstration:**
 ```bash
@@ -132,4 +136,3 @@ numpy
 ## 📄 License
 This project is licensed under the MIT License.
 ```
-</markdown>
